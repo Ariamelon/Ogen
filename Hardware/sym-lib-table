@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Ogen)(type Legacy)(uri ${KIPRJMOD}/Ogen.lib)(options "")(descr ""))
-)

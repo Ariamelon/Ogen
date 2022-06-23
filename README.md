@@ -1,8 +1,11 @@
 # Ogen
-Literally just a PMW3360 SPI Breakout Board. I know there's already [one available on Tindie](https://www.tindie.com/products/jkicklighter/pmw3360-motion-sensor/) but it costs over half the cost of the board just to ship it here in Hong Kong so I thought why not let's make an open-source version. It's 1mm wider, but it shouldn't make a big difference. It's untested so far but it should work.
+A PMW3360 breakout board based on [this](https://www.tindie.com/products/jkicklighter/pmw3360-motion-sensor/).
 
- ![Ogen Front Render](Images/Render.png)
+![Render](Images/Render.png)
+![PCB](Images/PCB.png)
+![Schematic](Images/Schematic.svg)
 
  ## Changelog
+ * 23/06/2022: Initial update to V1.1. Changed the 5 1-bit shift registers to 3 2-bit ones. Slightly shrunk board. New logo (very important).
+ * 04/10/2020: Fixed major flaw in PMW3360 footprint.
  * 30/09/2020: Initial commit.
- * 04/09/2020: Fixed major flaw in PMW3360 footprint.
