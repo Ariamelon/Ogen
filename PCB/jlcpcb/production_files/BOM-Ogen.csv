@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LCSC
+100n,C3,C_0402_1005Metric,C1525
+4u7,C2,C_0603_1608Metric,C19666
+39,R2,R_0402_1005Metric,C25164
+10k,"R1,R3,R4",R_0402_1005Metric,C25744
+15k,R5,R_0402_1005Metric,C25756
+1u,"C1,C4",C_0402_1005Metric,C52923
+AP2127K-ADJ,U2,SOT-23-5,C96343
+Art,A1,Ariamelon_Logo-CU,
+Input,J1,PinHeader_1x08_P2.54mm_Vertical,
+M2,H1,MountingHole_2.2mm_M2,
+M2,H2,MountingHole_2.2mm_M2,
