@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,4u7,C_0603_1608Metric,108.7,-71.9,180.0,bottom
+C2,100n,C_0603_1608Metric,105.7,-71.9,180.0,bottom
+C3,1u,C_0603_1608Metric,116.1,-61.8,180.0,bottom
+C4,1u,C_0603_1608Metric,113.0,-55.2,0.0,bottom
+J1,Input,PinHeader_1x08_P2.54mm_Vertical,105.015,-74.45,90.0,bottom
+R1,10k,R_0603_1608Metric,101.5,-71.9,180.0,bottom
+R2,10k,R_0603_1608Metric,116.4,-71.7,0.0,bottom
+R3,39,R_0603_1608Metric,108.1,-58.1,180.0,bottom
+R4,10k,R_0603_1608Metric,114.5,-57.6,270.0,bottom
+R5,15k,R_0603_1608Metric,117.0,-56.1,0.0,bottom
+U1,PMW3360DM-T2QU,IC_PMW3360DM-T2QU,104.523679,-65.016,90.0,bottom
+U2,AP2127K-ADJ,SOT-23-5,117.0,-59.0,270.0,bottom
