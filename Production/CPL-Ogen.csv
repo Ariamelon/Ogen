@@ -1,8 +1,8 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C1,4u7,C_0603_1608Metric,108.5,-71.9,180.0,bottom
 C2,100n,C_0603_1608Metric,105.5,-71.9,180.0,bottom
-C3,1u,C_0603_1608Metric,116.1,-61.8,180.0,bottom
-C4,1u,C_0603_1608Metric,113.0,-55.2,0.0,bottom
+C3,4u7,C_0603_1608Metric,116.1,-61.8,180.0,bottom
+C4,4u7,C_0603_1608Metric,113.0,-55.2,0.0,bottom
 J1,Input,PinHeader_1x08_P2.54mm_Vertical,105.015,-74.45,90.0,bottom
 R1,10k,R_0603_1608Metric,94.9,-70.5,90.0,bottom
 R2,10k,R_0603_1608Metric,95.05,-58.6,270.0,bottom
