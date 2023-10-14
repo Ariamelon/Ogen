@@ -1,3 +1,10 @@
 (sym_lib_table
-  (lib (name "Ogen")(type "KiCad")(uri "${KIPRJMOD}/Ogen.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "Ariamelon-Breakout")(type "KiCad")(uri "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Breakout.kicad_sym")(options "")(descr ""))
+  (lib (name "Ariamelon-Connector")(type "KiCad")(uri "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "Ariamelon-Device")(type "KiCad")(uri "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Device.kicad_sym")(options "")(descr ""))
+  (lib (name "Ariamelon-IC")(type "KiCad")(uri "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-IC.kicad_sym")(options "")(descr ""))
+  (lib (name "Ariamelon-Misc")(type "KiCad")(uri "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Misc.kicad_sym")(options "")(descr ""))
+  (lib (name "Ariamelon-Power")(type "KiCad")(uri "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Power.kicad_sym")(options "")(descr ""))
+  (lib (name "Ariamelon-Switch")(type "KiCad")(uri "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch.kicad_sym")(options "")(descr ""))
 )
