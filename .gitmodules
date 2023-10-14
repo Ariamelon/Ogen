@@ -1,0 +1,3 @@
+[submodule "PCB/Ariamelon-Kicad-Master-Library"]
+	path = PCB/Ariamelon-Kicad-Master-Library
+	url = https://github.com/Ariamelon/Ariamelon-Kicad-Master-Library
